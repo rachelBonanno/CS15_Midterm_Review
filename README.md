@@ -28,6 +28,40 @@
   </ul></li>
 <li> Huffman Coding </li>
 </ul>
+
+### Links to data on exam
+Array Lists:
+https://www.cs.tufts.edu/comp/15/schedule/lectures/arraylists/arraylists.pdf 
+
+Linked Lists:
+https://www.cs.tufts.edu/comp/15/schedule/lectures/linkedlists/linkedlists1.pdf
+https://www.cs.tufts.edu/comp/15/schedule/lectures/linkedlists/linkedlists2.pdf
+
+Complexity:
+https://www.cs.tufts.edu/comp/15/schedule/lectures/complexity/complexity.pdf 
+
+Queues:
+https://www.cs.tufts.edu/comp/15/schedule/lectures/queues/queues.pdf
+
+Stacks:
+https://www.cs.tufts.edu/comp/15/schedule/lectures/stacks/stacks.pdf
+
+Recutions:
+https://www.cs.tufts.edu/comp/15/schedule/lectures/recursion/recursion1.pdf
+
+Trees:
+https://www.cs.tufts.edu/comp/15/schedule/lectures/trees/trees.pdf
+https://www.cs.tufts.edu/comp/15/schedule/lectures/bsts/binary_tree_traversals_bst_intro.pdf
+https://www.cs.tufts.edu/comp/15/schedule/lectures/binary_trees_traversals/binary_trees_traversals_Fall22.pdf
+
+AVL Trees:
+https://www.cs.tufts.edu/comp/15/schedule/lectures/avls/bst_AVL.pdf
+https://www.cs.tufts.edu/comp/15/schedule/lectures/avls/AVL_part2.pdf
+
+Huffman:
+https://www.cs.tufts.edu/comp/15/schedule/lectures/huffman/huffman.pdf 
+
+
   
 ## What is not on the exam
 <ul>

@@ -85,4 +85,4 @@ https://www.cs.tufts.edu/comp/15/schedule/lectures/huffman/huffman.pdf
 
 
 # Review Sheet (To Bring Into Test)
-(IMG_8988.jpg)
+![](IMG_8988.jpg)

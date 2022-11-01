@@ -6,7 +6,6 @@
   <li> Array Lists </li>
   <li> Linked Lists </li>
   <li> Stacks/Queues </li>
-  <li> Sets </li>
   <li> Trees 
   <ul>
     <li> Tree vocab </li>
@@ -83,3 +82,6 @@ https://www.cs.tufts.edu/comp/15/schedule/lectures/huffman/huffman.pdf
  <li> Multiple choice </li>
  <li> Short answer </li>
 </ul>
+
+
+# Review Sheet (To Bring Into Test)
